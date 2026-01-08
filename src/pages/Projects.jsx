@@ -4,60 +4,44 @@ import { Github, ExternalLink } from 'lucide-react'
 
 const PROJECTS = [
   {
-    title: '🩺 Mammogram Malignancy Detector',
-    desc: 'Hybrid CNN + YOLOv8 ensemble for full-image breast cancer detection with ROI preprocessing and sliding-window inference.',
-    ss: '/mamo.png',
-    tech: ['TensorFlow', 'Keras', 'OpenCV', 'YOLOv8'],
-    live: '#',
-    code: 'https://github.com/kunjdesai/mammo-detector'
+    title: '🎨 Imagify (Pinterest Clone)',
+    desc: 'A visually immersive image discovery platform allowing users to search, view, and organize high-quality images. Features a responsive masonry layout and seamless user experience.',
+    ss: '/imagify_satyanshu.jpeg',
+    tech: ['React', 'Node.js', 'Express', 'PostgreSQL','cloudinary','tailwind CSS'],
+    live: 'https://imgfly.vercel.app/',
+    code: 'https://github.com/SatyanshuSatyam/Imgfly-.git'
   },
   {
-  title: '🧠 Mental Health Analyzer',
-  desc: 'NLP-based system that analyzes user text to detect signs of anxiety, stress, and depression using sentiment analysis and transformer models.',
-  ss: '/mentalhealth.jpg',
-  tech: ['Python', 'Transformers', 'NLTK', 'scikit-learn'],
-  live: 'https://mental-health-analyzer.streamlit.app/',
-  code: 'https://github.com/kunj2803/Mental-Health-Analyzer'
+    title: '✅ HabitHub (Habit Tracker)',
+    desc: 'A modern productivity dashboard for tracking daily routines. Features include streak analytics, weekly progress averages, and category-based filtering (Health, Fitness, Mindfulness).',
+    ss: '/habit_satyanshu.jpeg',
+    tech: ['Next.js', 'React', 'Tailwind CSS', 'Recharts', 'sonner', 'Redux Toolkit'],
+    live: 'https://github.com/SatyanshuSatyam/HabitHUB-Frontent-Project-next.js-and-Tailwind.git',
+    code: 'https://github.com/SatyanshuSatyam/HabitHUB-Frontent-Project-next.js-and-Tailwind.git'
   },
   {
-    title: '🤖 Indian Sign Language Interpreter',
-    desc: 'Real-time gesture recognition and translation using Mediapipe + TensorFlow, enabling live sign-to-text interpretation.',
-    ss: '/ISL.png',
-    tech: ['Mediapipe', 'TensorFlow', 'React', 'Flask'],
-    live: '#',
-    code: 'https://github.com/kunjdesai/ISL-Interpreter'
+    title: '🌦️ Real-Time Weather Dashboard',
+    desc: 'Comprehensive weather tracking application featuring live temperature data, 5-day forecasts, Air Quality Index (AQI) monitoring, and interactive map integration.',
+    ss: '/weather_satyanshu.jpeg',
+    tech: ['React', 'OpenWeather API', 'Leaflet Maps', 'Tailwind', 'Luxon'],
+    live: 'https://weather-dashboard-eight-black.vercel.app/',
+    code: 'https://github.com/SatyanshuSatyam/Weather-Dashboard.git'
   },
   {
-  title: '💼 Portfolio Website',
-  desc: 'A modern and responsive portfolio built with React and Framer Motion, showcasing projects, skills, and achievements with smooth animations and interactive UI.',
-  ss: '/portfolio.jpg',
-  tech: ['React', 'Framer Motion', 'Tailwind CSS'],
-  live: '#',
-  code: 'https://github.com/kunj2803/Kunj-Portfolio'
+    title: '🔔 WhatsApp Email Alerter',
+    desc: 'An automation utility that bridges the gap between Email and WhatsApp. It monitors your inbox and instantly forwards critical email notifications to your WhatsApp number.',
+    ss: '/email_alert_satyanshu.jpeg',
+    tech: ['Node.js', 'WhatsApp API', 'Nodemailer', 'IMAP', 'Twilio'],
+    live: 'https://github.com/SatyanshuSatyam/Email-Alert-On-Whatapps.git',
+    code: 'https://github.com/SatyanshuSatyam/Email-Alert-On-Whatapps.git'
   },
   {
-    title: '💬 DocuChat – Gemini AI Chatbot',
-    desc: 'An intelligent document interaction app powered by Gemini API that understands and answers queries from uploaded PDFs.',
-    ss: '/Docuchat.png',
-    tech: ['Gemini API', 'LangChain', 'Python', 'Streamlit'],
-    live: 'https://docuchat-chatbot.streamlit.app/',
-    code: 'https://github.com/kunj2803/Docuchat-Chatbot'
-  },
-  {
-    title: '📊 ProfileX – Data Profiler',
-    desc: 'Smart data profiling and preprocessing web app for CSV datasets — feature summary, missing value handling, and visualization.',
-    ss: '/ProfileX.png',
-    tech: ['Streamlit', 'Pandas', 'Plotly'],
-    live: 'https://profilex.streamlit.app/',
-    code: 'https://github.com/kunjdesai/ProfileX'
-  },
-  {
-    title: '🧬 Breast Cancer Prediction',
-    desc: 'ML pipeline using SVC, Random Forest, and XGBoost with SMOTE for imbalanced dataset handling and model optimization.',
-    ss: '/breastpred.jpg',
-    tech: ['scikit-learn', 'XGBoost', 'Pandas'],
-    live: '#',
-    code: 'https://github.com/kunjdesai/BreastCancerPrediction'
+    title: '🧾 To-Do List Application',
+    desc: 'A sleek and intuitive to-do list app that helps users organize tasks efficiently. Features include task categorization, priority setting, and deadline reminders.',
+    ss: '/todos_satyanshu.jpeg',
+    tech: ['Nextjs', 'Redux Toolkit', 'Tailwind CSS', 'charts.js'],
+    live: 'https://todo-pro-two.vercel.app/',
+    code: 'https://github.com/SatyanshuSatyam/TODO_pro.git'
   }
 ]
 
