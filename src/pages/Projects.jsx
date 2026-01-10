@@ -4,7 +4,7 @@ import { Github, ExternalLink } from 'lucide-react'
 
 const PROJECTS = [
   {
-    title: '🎨 Imagify (Pinterest Clone)',
+    title: '🎨 Imgfly',
     desc: 'A visually immersive image discovery platform allowing users to search, view, and organize high-quality images. Features a responsive masonry layout and seamless user experience.',
     ss: '/imagify_satyanshu.jpeg',
     tech: ['React', 'Node.js', 'Express', 'PostgreSQL','cloudinary','tailwind CSS'],
@@ -28,7 +28,7 @@ const PROJECTS = [
     code: 'https://github.com/SatyanshuSatyam/Weather-Dashboard.git'
   },
   {
-    title: '🔔 WhatsApp Email Alerter',
+    title: '🔔 Email Alert on WhatsApp',
     desc: 'An automation utility that bridges the gap between Email and WhatsApp. It monitors your inbox and instantly forwards critical email notifications to your WhatsApp number.',
     ss: '/email_alert_satyanshu.jpeg',
     tech: ['Node.js', 'WhatsApp API', 'Nodemailer', 'IMAP', 'Twilio'],

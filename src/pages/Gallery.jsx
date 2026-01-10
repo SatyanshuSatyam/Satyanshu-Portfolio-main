@@ -7,29 +7,34 @@ const IMAGES = {
   personal: [
     {
       id: 1,
-      caption: "Lost in the beauty of the misty forest 🌲🌫️",
-      photos: ["/gallery/matheran.jpg", "/gallery/matheran2.jpg"],
+      caption: "Lost in the beauty of the Ocean Waves 🌫️",
+      photos: ["/GalleryS/20260101_003105.jpg", "/GalleryS/20260101_124247.jpg","/GalleryS/20251207_195739.jpg"],
     },
     {
       id: 2,
       caption:
         "Weekend getaway to clear my head 🌄 Sometimes inspiration strikes when you’re away from the screen.",
-      photos: ["/gallery/lonawala.jpg", "/gallery/lonawala2.jpg"],
+      photos: ["/GalleryS/IMG_20250930_195205544_MF_PORTRAIT.jpg", "/GalleryS/IMG-20250628-WA0041.jpg"],
     },
   ],
   projects: [
     {
       id: 1,
       caption:
-        "It’s an AI-powered tool that understands what someone might be feeling based on their words.",
-      photos: ["/gallery/m.png", "/gallery/m2.jpeg"],
+        "It’s an AI-powered tool that understands to help me (and others) get 1% better every day. 🚀",
+      photos: ["/GalleryS/projectHabit.jpeg"],
     },
   ],
   achievements: [
     {
       id: 1,
-      caption: "Solved 1000 LeetCode questions 🏆!",
-      photos: ["/gallery/leet.jpeg"],
+      caption: "🌟 Reached All India Rank 1 on HackerRank for the day and secured my 5th Gold Star in SQL.🏆!",
+      photos: ["/GalleryS/SQLgold.jpg"],
+    },
+    {
+      id: 2,
+      caption: "Top of the charts! 🥇 Secured AIR 1 in the Adobe Quiz on Unstop. 🚀 Representing Heritage Institute of Technology (HIT) at the top spot feels amazing! Hard work + Speed = 🏆.",
+      photos: ["/GalleryS/AdobeQuiz.jpeg"],
     },
   ],
 };

@@ -12,21 +12,25 @@ export default function Blog() {
     },
     {
       id: 2,
-      title: "My Thoughts on Design & Aesthetics",
-      text: "I believe design should be a balance between functionality and emotion. Dark themes with minimalist layouts always inspire me to create something that feels personal and futuristic.",
+      title: "A Broke Man Has No Voice",
+      text: "It is a brutal truth: society measures a man's worth by his ability to provide. Without financial stability, your opinions often go unheard and your influence remains invisible. Financial independence is dignity.",
     },
     {
       id: 3,
-      title: "Balancing Tech and Creativity",
-      text: "As someone who codes and dances, I’ve realized creativity isn’t limited to art — it also lives in algorithms. Each project is like choreography for the mind.",
+      title: "Nobody Is Coming To Save You",
+      text: "We grow up expecting fairness, but the world is indifferent to your struggle. Success is never guaranteed, and sometimes you can do everything right and still lose. You must build your own armor; resilience is your only weapon.",
     },
     {
       id: 4,
-      title: "The Beauty of Simple Code",
-      text: "Clean code isn’t just about fewer lines — it’s about clarity. Elegance in code feels like poetry to me — each function should have rhythm and purpose.",
+      title: "There Are No Shortcuts",
+      text: "Everyone wants the prize, but few want the pain. Hard work isn't just about late nights; it is about showing up when you have zero motivation. Your future is built on the boring, repetitive work you do in the dark.",
+    },
+    {
+      id: 5,
+      title: "Money Is A Tool For Freedom",
+      text: "They say money can't buy happiness, but it buys options. It provides security and the ability to protect the people you love. Ignoring its importance is naive; mastering it is essential for surviving the modern world.",
     },
   ];
-
   const [posts, setPosts] = useState([]);
 
   useEffect(() => {
