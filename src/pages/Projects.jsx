@@ -20,6 +20,14 @@ const PROJECTS = [
     code: 'https://github.com/SatyanshuSatyam/HabitHUB-Frontent-Project-next.js-and-Tailwind.git'
   },
   {
+    title: '💼 Portfolio Website',
+    desc: 'A responsive personal portfolio built with React.js and Tailwind CSS to showcase my Full Stack development projects and technical skills. Features a modern dark-themed UI with seamless animations powered by Framer Motion for an engaging user experience.',
+    ss: '/GalleryS/portfilio.png',
+    tech: ['React.js', 'Redux Toolkit', 'Tailwind CSS', 'Framer Motion'],
+    live: 'https://todo-pro-two.vercel.app/',
+    code: 'https://github.com/SatyanshuSatyam/Satyanshu-Portfolio-main.git'
+  },
+  {
     title: '🌦️ Real-Time Weather Dashboard',
     desc: 'Comprehensive weather tracking application featuring live temperature data, 5-day forecasts, Air Quality Index (AQI) monitoring, and interactive map integration.',
     ss: '/weather_satyanshu.jpeg',
