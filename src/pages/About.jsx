@@ -56,25 +56,15 @@ const AboutMe = () => {
             marginBottom: "1rem",
           }}
         >
-          Hi, I’m <strong>Satyanshu Satyam</strong> — an aspiring{" "}
-          <strong>Artificial Intelligence Engineer</strong> and{" "}
-          <strong>Machine Learning enthusiast</strong> who loves turning ideas
-          into intelligent systems. I’m deeply fascinated by how data and
-          algorithms can shape the future of healthcare, automation, and
-          creativity in technology.
+          Hi, I’m <strong>Satyanshu Satyam</strong> — an aspiring <strong>Full-Stack Developer</strong> and <strong>MERN Stack enthusiast</strong> who loves turning complex logic into seamless web experiences. I’m deeply fascinated by how robust backend architecture and dynamic front-end design come together to build scalable systems.
         </p>
 
         <p style={{ fontSize: "1.1rem", color: "rgba(255,255,255,0.8)" }}>
-          Beyond code, I enjoy exploring design, experimenting with motion and
-          interaction, and finding ways to blend{" "}
-          <strong>artistic creativity</strong> with{" "}
-          <strong>technical precision</strong>. My goal is to build solutions
-          that not only perform — but also inspire.
+          Beyond code, I enjoy solving algorithmic challenges, having solved over 200 problems on LeetCode and GeeksforGeeks , and finding ways to automate daily life through technology, like building custom WhatsApp and Telegram bots. My goal is to combine clean code with responsive design to create high-quality applications.
         </p>
 
         <p>
-            4th-year B.Tech AI Engineering student with hands-on experience in ML & DL Projects. Proficient in Python, scikitlearn,pytorch,tensorflow and data preprocessing. Seeking internship opportunities to apply skills and contribute to
-            impactful AI solutions.
+            Final-year B.Tech CSE student with hands-on experience in Web Development. Proficient in MongoDB, Express, React, Node.js, and TypeScript. Seeking opportunities to apply my skills and contribute to impactful software solutions.
         </p>
 
         {/* --- Education Section --- */}
@@ -184,11 +174,10 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>R.S.M. Poonawala Experimental School</strong> — Ambika
-                  Niketan, Surat
+                  <strong>Chauhan Public School</strong> — Bhagalpur, Bihar
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  Gujarat Board | Percentage: 78%
+                  CBSE Board | Percentage: 71.4%
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2022</p>
               </div>
@@ -229,11 +218,10 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>R.S.M. Poonawala Experimental School</strong> — Surat,
-                  Gujarat
+                  <strong>Chauhan Public School</strong> — Bhagalpur, Bihar
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  Gujarat Board | Percentage: 69%
+                  CBSE Board | Percentage: 68%
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2020</p>
               </div>

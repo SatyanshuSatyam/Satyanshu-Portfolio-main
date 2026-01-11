@@ -105,7 +105,7 @@ export default function Resume() {
             <li>
               <strong>B.Tech in Computer Science & Engineering</strong> — H.I.T.K
             , 2022–2026 <br />
-              <span style={{ color: "#aaa" }}>GPA: 9.0</span>
+              <span style={{ color: "#aaa" }}>GPA: 7.0</span>
             </li>
             <li style={{ marginTop: 8 }}>
               <strong>12th Board — Chauhan Public School</strong> (CBSE
