@@ -24,7 +24,7 @@ const PROJECTS = [
     desc: 'A responsive personal portfolio built with React.js and Tailwind CSS to showcase my Full Stack development projects and technical skills. Features a modern dark-themed UI with seamless animations powered by Framer Motion for an engaging user experience.',
     ss: '/GalleryS/portfilio.png',
     tech: ['React.js', 'Redux Toolkit', 'Tailwind CSS', 'Framer Motion'],
-    live: 'https://todo-pro-two.vercel.app/',
+    live: 'https://satyanshu-portfolio-main.vercel.app/',
     code: 'https://github.com/SatyanshuSatyam/Satyanshu-Portfolio-main.git'
   },
   {
