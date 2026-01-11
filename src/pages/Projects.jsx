@@ -16,7 +16,7 @@ const PROJECTS = [
     desc: 'A modern productivity dashboard for tracking daily routines. Features include streak analytics, weekly progress averages, and category-based filtering (Health, Fitness, Mindfulness).',
     ss: '/habit_satyanshu.jpeg',
     tech: ['Next.js', 'React', 'Tailwind CSS', 'Recharts', 'sonner', 'Redux Toolkit'],
-    live: 'https://github.com/SatyanshuSatyam/HabitHUB-Frontent-Project-next.js-and-Tailwind.git',
+    live: 'https://v0-next-js-frontend-assignment.vercel.app/',
     code: 'https://github.com/SatyanshuSatyam/HabitHUB-Frontent-Project-next.js-and-Tailwind.git'
   },
   {
